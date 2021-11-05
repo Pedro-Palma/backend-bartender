@@ -38,6 +38,6 @@ El API fue realizado con:
 
 Se realizaron validaciones de los parámetros con la librería:
 
--[Joi](https://joi.dev/)
+- [Joi](https://joi.dev/)
 
 
